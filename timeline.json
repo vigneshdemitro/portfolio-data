@@ -1,0 +1,152 @@
+{
+  "meta": {
+    "lastUpdated": "2026-03-08",
+    "siteTitle": "Career Timeline — Vigneshwar Pasupathi",
+    "siteDescription": "A chronological journey from Civil Engineering graduate to Full Stack Engineer — covering education, career pivots, promotions, and milestones.",
+    "totalEntries": 9,
+    "careerStartYear": 2016,
+    "softwareCareerStartYear": 2020,
+    "filters": ["all", "work", "education", "milestone"]
+  },
+  "timeline": [
+    {
+      "id": "edu-1",
+      "date": "2010-06",
+      "endDate": "2010-11",
+      "type": "education",
+      "title": "Bachelor of Engineering — Civil Engineering",
+      "organization": "Prince Shri Venkateswara Padmavathy Engineering College",
+      "location": "Chennai, India",
+      "description": "Earned a B.E. in Civil Engineering, developing strong analytical thinking, technical documentation, and structured problem-solving skills. Gained hands-on experience in AutoCAD-based drafting, structural design, and project planning — competencies that directly transferred into a decade-long engineering",
+      "icon": "GraduationCap"
+    },
+    {
+      "id": "work-ms",
+      "date": "2016-03",
+      "endDate": "2016-11",
+      "type": "work",
+      "organization": "MS Design House",
+      "location": "Chennai, India",
+      "icon": "PencilRuler",
+      "positions": [
+        {
+          "title": "Architectural Draftsman",
+          "startDate": "2016-03",
+          "endDate": "2016-11",
+          "description": "Produced precise architectural drawings, floor plans, and construction blueprints for residential and commercial projects using AutoCAD. Collaborated with senior architects to translate design concepts into technical documentation, ensuring accuracy, adherence to standards, and timely project delivery.",
+          "isPromotion": false
+        }
+      ]
+    },
+    {
+      "id": "work-indigo",
+      "date": "2017-01",
+      "endDate": "2019-03",
+      "type": "work",
+      "organization": "Indigo India Pvt Ltd",
+      "location": "Chennai, India",
+      "icon": "Ruler",
+      "positions": [
+        {
+          "title": "Design Engineer",
+          "startDate": "2017-01",
+          "endDate": "2019-03",
+          "description": "Designed and delivered detailed technical drawings for a diverse product range using AutoCAD, supporting manufacturing, quality assurance, and procurement teams. Maintained strict engineering standards across multi-phase product cycles, reducing revision turnaround through precise documentation and proactive cross-functional communication.",
+          "isPromotion": false
+        }
+      ]
+    },
+    {
+      "id": "pivot",
+      "date": "2019-04",
+      "type": "milestone",
+      "title": "Career Transition — Engineering to Software Development",
+      "organization": "",
+      "location": "Chennai, India",
+      "description": "Executed a deliberate career pivot from design engineering into software development, leveraging 3+ years of engineering problem-solving, technical documentation, and systems thinking as transferable competencies. Self-directed upskilling in web development technologies prior to formal bootcamp enrollment.",
+      "icon": "Zap"
+    },
+    {
+      "id": "edu-2",
+      "date": "2020-01",
+      "endDate": "2020-04",
+      "type": "education",
+      "title": "Full Stack Development Bootcamp",
+      "organization": "HCL GUVI GEEK NETWORK PRIVATE LIMITED",
+      "location": "Chennai, India",
+      "description": "Completed an intensive full-stack web development program, gaining hands-on proficiency in JavaScript (ES6+), React.js, Node.js, RESTful API design, SQL and NoSQL databases, and version control with Git. Designed and deployed end-to-end web applications, establishing a strong technical foundation that led directly to a professional software engineering role.",
+      "icon": "MonitorCode"
+    },
+    {
+      "id": "work-macroid",
+      "date": "2020-07",
+      "endDate": "2022-02",
+      "type": "work",
+      "organization": "Macroid App Services Pvt Ltd",
+      "location": "Chennai, India",
+      "icon": "Code2",
+      "positions": [
+        {
+          "title": "Full Stack Web Developer",
+          "startDate": "2020-07",
+          "endDate": "2021-09",
+          "description": "Developed and deployed a scalable food delivery web application for a US-based client, building responsive user interfaces with React.js and RESTful backend services using Node.js and MongoDB. Worked within an Agile workflow, contributing to sprint planning, code reviews, and continuous integration, while rapidly growing full-stack proficiency in a production environment.",
+          "isPromotion": false
+        },
+        {
+          "title": "Senior Full Stack Web Developer",
+          "startDate": "2021-09",
+          "endDate": "2022-02",
+          "description": "Promoted to Senior Full Stack Developer within 14 months on the strength of technical performance and consistent delivery. Led development of a confidential finance domain application for a UK-based client using React.js, NestJS, and AWS EC2. Designed RESTful microservices, optimised relational database schemas, and drove code quality standards across the development team.",
+          "isPromotion": true
+        }
+      ]
+    },
+    {
+      "id": "work-acubetech",
+      "date": "2022-02",
+      "endDate": "2024-05",
+      "type": "work",
+      "organization": "Acubetech Solutions Pvt Ltd",
+      "location": "Chennai, India",
+      "icon": "Layers",
+      "positions": [
+        {
+          "title": "Senior Software Engineer",
+          "startDate": "2022-02",
+          "endDate": "2024-05",
+          "description": "Architected and delivered reusable React.js component libraries, accelerating feature development velocity across multiple product modules. Designed and implemented scalable REST APIs using Node.js, integrated with PostgreSQL and MySQL databases. Deployed serverless solutions via AWS Amplify and Lambda. Mentored junior engineers through structured code reviews and pair programming sessions, improving team-wide adherence to SOLID principles and clean code practices.",
+          "isPromotion": false
+        }
+      ]
+    },
+    {
+      "id": "toastmaster",
+      "date": "2023-06",
+      "type": "milestone",
+      "title": "Contributor Award — Toastmasters International",
+      "organization": "Wake-Up Chennai Toastmasters Club, District 120",
+      "location": "Chennai, India",
+      "description": "Recognised with the Contributor Award by Wake-Up Chennai Toastmasters Club for outstanding leadership and commitment to the community. Served as Registration Chair for the Illuminate 2024 Semi Annual Conference (Division I, District 120), managing end-to-end event coordination and cross-team communication for 100+ attendees.",
+      "icon": "Award"
+    },
+    {
+      "id": "work-guidewire",
+      "date": "2024-06",
+      "endDate": null,
+      "type": "work",
+      "organization": "Guidewire Software",
+      "location": "India",
+      "icon": "Star",
+      "positions": [
+        {
+          "title": "Full Stack Engineer",
+          "startDate": "2024-06",
+          "endDate": null,
+          "description": "Developing and maintaining features for a Cyber insurance domain platform using Guidewire's React-based Jutro Design System, engineering across Angular and Jutro front-end layers with Node.js and Python back-end services on AWS infrastructure. Architected and managed CI/CD deployment pipelines using TeamCity and Jenkins, improving release reliability and deployment frequency. Contributed to PostgreSQL-backed data services and championed TypeScript standards and engineering best practices while mentoring junior engineers within an Agile delivery framework.",
+          "isPromotion": false
+        }
+      ]
+    }
+  ]
+}
