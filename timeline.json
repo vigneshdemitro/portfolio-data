@@ -29,6 +29,7 @@
       "organization": "MS Design House",
       "location": "Chennai, India",
       "icon": "PencilRuler",
+      "skills": ["AutoCAD", "Drafting", "Technical Drawing"],
       "positions": [
         {
           "title": "Architectural Draftsman",
@@ -47,6 +48,7 @@
       "organization": "Indigo India Pvt Ltd",
       "location": "Chennai, India",
       "icon": "Ruler",
+      "skills": ["AutoCAD", "Drafting", "Technical Drawing"],
       "positions": [
         {
           "title": "Design Engineer",
@@ -86,6 +88,7 @@
       "organization": "Macroid App Services Pvt Ltd",
       "location": "Chennai, India",
       "icon": "Code2",
+      "skills": ["React", "Node.js", "NestJS", "MongoDB", "AWS EC2"],
       "positions": [
         {
           "title": "Full Stack Web Developer",
@@ -111,6 +114,7 @@
       "organization": "Acubetech Solutions Pvt Ltd",
       "location": "Chennai, India",
       "icon": "Layers",
+      "skills": ["React", "Node.js", "AWS Amplify", "PostgreSQL", "MySQL"],
       "positions": [
         {
           "title": "Senior Software Engineer",
@@ -139,6 +143,7 @@
       "organization": "Guidewire Software",
       "location": "India",
       "icon": "Star",
+      "skills": ["TypeScript", "Node.js", "Python", "Angular", "Guidewire Jutro", "PostgreSQL", "AWS", "Teamcity"],
       "positions": [
         {
           "title": "Full Stack Engineer",

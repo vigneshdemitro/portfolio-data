@@ -3,7 +3,12 @@
     "name": "Vigneshwar Pasupathi",
     "initials": "VP",
     "position": "Full Stack Engineer",
-    "roles": ["Full Stack Engineer", "React Developer", "Node.js Engineer", "TypeScript Enthusiast"],
+    "roles": [
+      "Full Stack Engineer",
+      "React Developer",
+      "Node JS Engineer",
+      "TypeScript Enthusiast"
+    ],
     "tagline": "I build fast, accessible, and well-crafted web applications.",
     "contact": {
       "email": "vigneshdemitro@gmail.com",
@@ -22,71 +27,16 @@
     ]
   },
   "skills": [
-    { "name": "Node.js",    "level": 85, "category": "Backend"   },
-    { "name": "TypeScript", "level": 80, "category": "Language"  },
-    { "name": "NestJS",     "level": 75, "category": "Backend"   },
-    { "name": "PostgreSQL", "level": 75, "category": "Backend"   },
-    { "name": "React",      "level": 70, "category": "Frontend"  },
-    { "name": "Angular",    "level": 70, "category": "Frontend"  },
-    { "name": "Python",     "level": 50, "category": "Language"  },
-    { "name": "AWS",        "level": 50, "category": "Cloud"     },
-    { "name": "Teamcity",   "level": 40, "category": "Cloud"     }
-  ],
-  "experience": [
-    {
-      "companyName": "Guidewire Software",
-      "positions": [
-        {
-          "title": "Full Stack Engineer",
-          "startDate": "06/2024",
-          "endDate": null,
-          "description": "Working on a Cyber insurance domain, mentoring junior devs, and building new features with Angular, Node.js, and PostgreSQL."
-        }
-      ],
-      "skills": ["Angular", "AWS", "Node.js", "TypeScript", "PostgreSQL", "Python", "Teamcity"]
-    },
-    {
-      "companyName": "Acubetech Solutions",
-      "positions": [
-        {
-          "title": "Senior Software Engineer",
-          "startDate": "02/2022",
-          "endDate": "05/2024",
-          "description": "Built reusable React components, developed REST APIs, and mentored junior engineers on clean code practices."
-        }
-      ],
-      "skills": ["React", "Node.js", "AWS Amplify", "PostgreSQL"]
-    },
-    {
-      "companyName": "Macroid App Services",
-      "positions": [
-        {
-          "title": "Senior Full Stack Developer",
-          "startDate": "09/2021",
-          "endDate": "02/2022",
-          "description": "Full stack development for a UK-based finance client."
-        },
-        {
-          "title": "Full Stack Developer",
-          "startDate": "07/2020",
-          "endDate": "09/2021",
-          "description": "Built and shipped a food delivery platform for a US-based client."
-        }
-      ],
-      "skills": ["React", "Node.js", "NestJS", "MongoDB", "AWS EC2"]
-    },
-    {
-      "companyName": "Indigo India",
-      "positions": [
-        {
-          "title": "Design Engineer",
-          "startDate": "01/2017",
-          "endDate": "03/2019",
-          "description": "Created detailed technical drawings for a wide range of industrial products."
-        }
-      ],
-      "skills": ["AutoCAD", "Drafting"]
-    }
+    { "name": "Javascript", "level": 85, "category": "Backend" },
+    { "name": "TypeScript", "level": 80, "category": "Language" },
+    { "name": "Node", "level": 85, "category": "Backend" },
+    { "name": "NestJS", "level": 75, "category": "Backend" },
+    { "name": "PostgreSQL", "level": 75, "category": "Backend" },
+    { "name": "React", "level": 70, "category": "Frontend" },
+    { "name": "Angular", "level": 70, "category": "Frontend" },
+    { "name": "Python", "level": 50, "category": "Language" },
+    { "name": "AWS", "level": 50, "category": "Cloud" },
+    { "name": "Teamcity", "level": 40, "category": "Cloud" }
   ],
   "meta": {
     "lastUpdated": "2026-03-27",
