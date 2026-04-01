@@ -154,7 +154,7 @@
         },
         {
           "title": "Full Stack Engineer II",
-          "startDate": "2026-03",
+          "startDate": "2026-04",
           "endDate": null,
           "description": "Continuing full-stack development on the Cyber insurance platform while expanding into AI-assisted engineering — building AI agents using Claude to analyse CI/CD failures and intelligently route support tickets to the right team, reducing triage time. Championing spec-driven development and AI-augmented workflows to accelerate delivery across the team. Architectural decisions documented in Confluence and visualised through Miro board diagrams, ensuring clarity across distributed teams. Continued ownership of Jutro front-end layers, Node.js and Python back-end services on AWS, and TypeScript standards.",
           "isPromotion": true
