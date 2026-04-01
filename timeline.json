@@ -148,9 +148,16 @@
         {
           "title": "Full Stack Engineer",
           "startDate": "2024-06",
-          "endDate": null,
+          "endDate": "2026-03",
           "description": "Developing and maintaining features for a Cyber insurance domain platform using Guidewire's React-based Jutro Design System, engineering across Angular and Jutro front-end layers with Node.js and Python back-end services on AWS infrastructure. Architected and managed CI/CD deployment pipelines using TeamCity and Jenkins, improving release reliability and deployment frequency. Contributed to PostgreSQL-backed data services and championed TypeScript standards and engineering best practices while mentoring junior engineers within an Agile delivery framework.",
           "isPromotion": false
+        },
+        {
+          "title": "Full Stack Engineer II",
+          "startDate": "2026-03",
+          "endDate": null,
+          "description": "Developing and maintaining features for a Cyber insurance domain platform using Guidewire's React-based Jutro Design System, engineering Jutro front-end layers with Node.js and Python back-end services on AWS infrastructure. Architected and managed CI/CD deployment pipelines using TeamCity and Jenkins, improving release reliability and deployment frequency. Contributed to PostgreSQL-backed data services and championed TypeScript standards and engineering best practices while mentoring junior engineers within an Agile delivery framework.",
+          "isPromotion": true
         }
       ]
     }
