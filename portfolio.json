@@ -21,7 +21,7 @@
   },
   "about": {
     "paragraphs": [
-      "I am a Senior Full Stack Engineer with {{totalYears}}+ years in engineering and {{softwareYears}}+ years in software — building production-grade applications across the full stack. Through deliberate AI exploration, I learnt to leverage AI-assisted development to ship products faster, write cleaner code, and reach solutions I wouldn't have found alone.",
+      "I am a Senior Full Stack Engineer with {{totalYears}}+ years in engineering and {{softwareYears}}+ years in software — specialising in Guidewire Jutro, the enterprise-grade design system powering modern insurance platforms. I build production-grade applications across the full stack, and have developed deep expertise in Guidewire's component architecture, configuration patterns, and the nuances of delivering at enterprise scale. Through deliberate AI exploration — including spec-driven development with Claude Code — I have learnt to translate requirements directly into working, production-ready code faster, write cleaner architecture, and reach solutions I wouldn't have found alone.",
       "Beyond code, I am engaged in the Toastmasters community — serving as Registration Chair for the Illuminate 2024 Semi Annual Conference and receiving the Contributor Award from Wake-Up Chennai Toastmasters Club. I believe the same discipline that makes a good speaker makes a good engineer: clarity, preparation, and the courage to iterate.",
       "Away from the keyboard, I am an automobile enthusiast who geeks out over engineering and design, an architecture aficionado who finds inspiration in how spaces are crafted, and a DIY freak who believes the best way to understand something is to build it yourself."
     ]
