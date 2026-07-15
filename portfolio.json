@@ -49,8 +49,8 @@
     { "name": "Kubernetes", "level": 50, "category": "DevOps" },
     { "name": "CI/CD", "level": 75, "category": "DevOps" },
     { "name": "Bitbucket", "level": 70, "category": "Version Control" },
-    { "name": "Jira", "level": 80, "category": "Agile & Documentation" },
-    { "name": "Confluence", "level": 75, "category": "Agile & Documentation" }
+    { "name": "Jira", "level": 80, "category": "Agile" },
+    { "name": "Confluence", "level": 75, "category": "Agile" }
   ],
   "meta": {
     "lastUpdated": "2026-03-27",

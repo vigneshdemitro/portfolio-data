@@ -143,7 +143,7 @@
       "organization": "Guidewire Software Solutions India Pvt Ltd",
       "location": "India",
       "icon": "Star",
-      "skills": ["TypeScript", "Node.js", "Python", "Angular", "Guidewire Jutro", "PostgreSQL", "AWS", "Teamcity"],
+      "skills": ["TypeScript", "Node.js", "Python", "Angular", "Guidewire Jutro", "PostgreSQL", "AWS", "Teamcity", "Docker", "Github Actions", "OAuth", "Kubernetes", "Git"],
       "positions": [
         {
           "title": "Full Stack Engineer",
