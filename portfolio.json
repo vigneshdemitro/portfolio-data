@@ -64,14 +64,15 @@
       "title": "JLB Constructions",
       "description": "A professional portfolio for a construction company.",
       "technologies": ["React", "TypeScript", "Tailwind CSS"],
-      "githubUrl": "https://github.com/vigneshdemitro/jlb-constructions"
+      "githubUrl": "https://github.com/vigneshdemitro/jlb-constructions",
+      "liveUrl": "https://kattida-app.vigneshdemitro.work/"
     },
     {
       "title": "Kattida Stealth Mode",
       "description": "A construction application tracker.",
       "technologies": ["React", "TypeScript", "Node.js"],
       "githubUrl": "https://github.com/vigneshdemitro/kattida-stealth-mode",
-      "liveUrl": "https://kattida-app.vigneshdemitro.work/"
+      "liveUrl": "http://vigneshdemitro.github.io/jlb-constructions/"
     }
   ],
   "meta": {
