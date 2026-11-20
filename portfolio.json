@@ -53,8 +53,29 @@
     { "name": "Jira", "level": 80, "category": "Agile" },
     { "name": "Confluence", "level": 75, "category": "Agile" }
   ],
+  "projects": [
+    {
+      "title": "Personal Portfolio",
+      "description": "A React-based portfolio website built with Vite, TypeScript, and Tailwind CSS 4. This site serves as a professional showcase for my skills, experiences, and projects.",
+      "technologies": ["React", "TypeScript", "Tailwind CSS", "Vite", "React Query"],
+      "githubUrl": "https://github.com/vigneshdemitro/portfolio-vite"
+    },
+    {
+      "title": "JLB Constructions",
+      "description": "A professional portfolio for a construction company.",
+      "technologies": ["React", "TypeScript", "Tailwind CSS"],
+      "githubUrl": "https://github.com/vigneshdemitro/jlb-constructions"
+    },
+    {
+      "title": "Kattida Stealth Mode",
+      "description": "A construction application tracker.",
+      "technologies": ["React", "TypeScript", "Node.js"],
+      "githubUrl": "https://github.com/vigneshdemitro/kattida-stealth-mode",
+      "liveUrl": "https://kattida-app.vigneshdemitro.work/"
+    }
+  ],
   "meta": {
-    "lastUpdated": "2026-08-12",
+    "lastUpdated": "2026-11-20",
     "siteTitle": "Vigneshwar Pasupathi — Full Stack Engineer",
     "siteDescription": "Portfolio of Vigneshwar Pasupathi, Senior Full Stack Engineer with 6+ years of experience in React, Node.js, and PostgreSQL."
   }
